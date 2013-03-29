@@ -1,8 +1,8 @@
 1.  labels Featured
 
-<h1>
+<h1 style="text-align: center;">
 
-2D Computer Graphics
+ <u>2D Computer Graphics</u>
 
 </h1>
 
