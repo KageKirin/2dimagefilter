@@ -2,7 +2,7 @@
 
 <h1>
 
- 2D Computer Graphics
+2D Computer Graphics
 
 </h1>
 
