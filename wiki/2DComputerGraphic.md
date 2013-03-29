@@ -48,7 +48,14 @@ colors it can represent).
 
 <h2>
 
-Vector graphic
+Vector
+graphic
+
+</h2>
+
+<h2>
+
+<img alt="" src="https://lh5.googleusercontent.com/-TJI4KFJm5OQ/UVXV3L0rMLI/AAAAAAAAAfw/U01utEtY8sk/s800/application-vnd.scribus_4x%2528vector%2529.png" style="height:192px; width:240px" />
 
 </h2>
 
