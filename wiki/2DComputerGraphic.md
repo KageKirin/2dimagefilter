@@ -2,9 +2,16 @@
 
 <h1 style="text-align: center;">
 
-<u>2D Computer Graphics</u>
+<u>2D Computer
+Graphics</u>
 
 </h1>
+
+<h2>
+
+<img alt="" src="https://lh3.googleusercontent.com/-oJ1GJT6yDVw/UVXV0QwkAQI/AAAAAAAAAfw/ugQYfuLgM0o/s800/application-vnd.scribus_4x%2528raster%2529.png" style="height:192px; width:240px" />
+
+</h2>
 
 2D computer graphics is the computer-based generation of digital
 images-mostly from two-dimensional models (such as 2D geometric models,
