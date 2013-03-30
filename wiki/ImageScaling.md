@@ -33,3 +33,11 @@ fourth-generation and earlier video games on arcade and console
 emulators, many are designed to run in real time for sufficiently small
 input images at 60 frames per second. Many work only on specific scale
 factors: 2× is the most common, with 3× and 4× also present.
+
+### EPX/Scale2×/AdvMAME2×
+
+Eric's Pixel Expansion (EPX) is an algorithm developed by Eric Johnston
+at LucasArts around 1992, when porting the SCUMM engine games from the
+IBM PC (which ran at 320×200×256 colors) to the early color Macintosh
+computers, which ran at more or less double that resolution. The
+algorithm works as follows:
