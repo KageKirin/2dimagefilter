@@ -4,15 +4,15 @@
 
 || Table of Contents: || ||<wiki:toc max_depth="3" />||
 
-In computer graphics, image scaling is the process of resizing a digital
-image. Scaling is a non-trivial process that involves a trade-off
-between efficiency, smoothness and sharpness. With bitmap graphics, as
-the size of an image is reduced or enlarged, the pixels which comprise
-the image become increasingly visible, making the image appear "soft" if
-pixels are averaged, or jagged if not. With vector graphics the
-trade-off may be in processing power for re-rendering the image, which
-may be noticeable as slow re-rendering with still graphics, or slower
-frame rate and frame skipping in computer animation.
+  - Image scaling\* is the process of resizing a digital image. Scaling
+    is a non-trivial process that involves a trade-off between
+    efficiency, smoothness and sharpness. As the size of a raster image
+    is reduced or enlarged, the pixels which comprise the image become
+    increasingly visible, making the image appear "soft" if pixels are
+    averaged, or jagged if not. With vector image the trade-off may be
+    in processing power for re-rendering the image, which may be
+    noticeable as slow re-rendering with still graphics, or slower frame
+    rate and frame skipping in computer animation.
 
 Apart from fitting a smaller display area, image size is most commonly
 decreased (or subsampled or downsampled) in order to produce thumbnails.
@@ -41,3 +41,15 @@ at Lucas Arts around 1992, when porting the SCUMM engine games from the
 IBM PC (which ran at 320×200×256 colors) to the early color Macintosh
 computers, which ran at more or less double that resolution. The
 algorithm works as follows:
+
+Later implementations of this same algorithm (as AdvMAME2× and Scale2×,
+developed around 2001) have a slightly more efficient but functionally
+identical implementation:
+
+The AdvMAME4×/Scale4× algorithm is just EPX applied twice to get 4×
+resolution.
+
+### Scale3×/AdvMAME3×
+
+The AdvMAME3×/Scale3× algorithm can be thought of as a generalization of
+EPX to the 3× case. The corner pixels are calculated identically to EPX.
