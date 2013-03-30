@@ -63,7 +63,6 @@ method.
 ## Comparison
 
 ||<https://lh6.googleusercontent.com/-Rg70-bYny_U/UVOYd43bWoI/AAAAAAAAAes/q-TDJw_Z5Bk/s800/Erick.png>||<https://lh3.googleusercontent.com/-weaoAT8G9nU/UVOYf2eA7bI/AAAAAAAAAe8/mxnz4VYVzrg/s800/Erick_4x.png>||<https://lh4.googleusercontent.com/-ALsCKxYF99U/UVOYfJIMPGI/AAAAAAAAAe0/SZdYw4JXSbg/s800/Erick_4x(HqxSmart).png>||
-
 ||<https://lh3.googleusercontent.com/-s2yYs4pr49E/UVOYQJzzLDI/AAAAAAAAAd8/acGdEHwYI60/s800/Boss.png>||<https://lh3.googleusercontent.com/-y5-DsdFOru0/UVOYR6WsB8I/AAAAAAAAAeE/4D7S7VBwW6U/s800/Boss_4x.png>||<https://lh3.googleusercontent.com/-tO3vuuhFF5Q/UVOYVAAHWWI/AAAAAAAAAeM/AsgwmGFaEYw/s800/Boss_4x(xBR).png>||
 
 If there is any questions related the usage of this software and pixel
