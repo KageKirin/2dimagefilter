@@ -26,11 +26,12 @@ just:
 
 ### Command Line Interface
 
-||  || Loads a file into the buffer. ||  || the source file to resize
+||  || Loads a file into the buffer.|| ||  || the source file to
+resize||
 
 || } || Saves the image in the buffer to a file.|| ||  || the target
 file to write|| ||  || Resizes the image in the buffer and stores the
-result back to the buffer.|| ||  || || || If only width or height is
+result back to the buffer.|| ||  || || || || If only width or height is
 specified, the other dimension is auto-detected by aspect ratio|| ||  ||
 determine target dimensions from used resizing filter|| ||  || the final
 width in pixels for the target|| ||  || the final height in pixels for
