@@ -9,13 +9,13 @@
 
 ## Usage
 
-The user interface is very straightforward, you just:
+The user interface is very straightforward, you
+just:
 
-  - Choose an image that you want to upscale;
-  - Choose scaling method that you desire (I recommended use xBR 4x, but
-    another method is also worth to be tried);
-  - Set another parameter if necessary;
-  - Save as your image.
+` * Choose an image that you want to upscale;`  
+` * Choose scaling method that you desire (I recommended use xBR 4x, but another method is also worth to be tried);`  
+` * Set another parameter if necessary;`  
+` * Save as your image.`
 
 ## Limitations
 
