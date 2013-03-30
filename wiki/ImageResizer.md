@@ -27,15 +27,13 @@ just:
 ### Command Line Interface
 
 ||  || Loads a file into the buffer.|| ||  || the source file to
-resize||
-
-|| } || Saves the image in the buffer to a file.|| ||  || the target
-file to write|| ||  || Resizes the image in the buffer and stores the
-result back to the buffer.|| ||  || || || || If only width or height is
-specified, the other dimension is auto-detected by aspect ratio|| ||  ||
-determine target dimensions from used resizing filter|| ||  || the final
-width in pixels for the target|| ||  || the final height in pixels for
-the target|| ||  || the percentage to resize eg 400% for 4-times
+resize|| || } || Saves the image in the buffer to a file.|| ||  || the
+target file to write|| ||  || Resizes the image in the buffer and stores
+the result back to the buffer.|| ||  || || || || If only width or height
+is specified, the other dimension is auto-detected by aspect ratio|| || 
+|| determine target dimensions from used resizing filter|| ||  || the
+final width in pixels for the target|| ||  || the final height in pixels
+for the target|| ||  || the percentage to resize eg 400% for 4-times
 resizing|| ||  || the method to use|| ||  || the number of repetitions
 using this method|| ||  || a list of parameters to apply, separated
 using ',' and assigned using '='; eg. radius=4, centeredGrid=0|| ||  ||
