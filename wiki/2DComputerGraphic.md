@@ -16,7 +16,7 @@ representation of a real-world object, but an independent artifact with
 added semantic value; two-dimensional models are therefore preferred,
 because they give more direct control of the image than 3D computer
 graphics (whose approach is more akin to photography than to
-typography).
+typography).\>
 
 ## Raster graphic
 
