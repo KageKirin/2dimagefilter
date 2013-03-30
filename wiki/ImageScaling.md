@@ -127,9 +127,9 @@ frequency) and very similar perpendicular to that direction (low color
 frequency).
 
 xBR comes with two variants, one which blending image colors for
-smoothing results and other which not blending image colors (xBR (No
-Blend)) so the results looks a bit jaggies. However The advantages of
-xBR (No Blend) are it mantain image sharpness, because it doesn't
+smoothing the results and other which not blending image colors (xBR (No
+Blend)) so that the results looks a bit jaggies. However The advantages
+of xBR (No Blend) are it maintains image sharpness, because it doesn't
 produce additional colors, so that the number of unique colors between
 the original and the results remain same. Thus the xBR (No Blend) can be
 used recursively for scaling image multiple times without loss of
