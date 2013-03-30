@@ -10,7 +10,7 @@ text, and digital images) and by techniques specific to them. The word
 may stand for the branch of computer science that comprises such
 techniques, or for the models themselves.
 
-2D computer graphics are mainly used in applications that were
+The purpose of 2D computer graphics are mainly in applications that were
 originally developed upon traditional printing and drawing technologies,
 such as typography, cartography, technical drawing, advertising, etc. In
 those applications, the two-dimensional image is not just a
@@ -20,16 +20,16 @@ because they give more direct control of the image than 3D computer
 graphics (whose approach is more akin to photography than to
 typography).\>
 
-2D computer graphics models may combine geometric models, (vector
-graphics), digital images (raster graphics), text to be typeset (defined
-by content, font style and size, color, position, and orientation),
-mathematical functions and equations, and more. These components can be
-modified and manipulated by two-dimensional geometric transformations
-such as translation, rotation, scaling. In object-oriented graphics, the
-image is described indirectly by an object endowed with a self-rendering
-method—a procedure which assigns colors to the image pixels by an
-arbitrary algorithm. Complex models can be built by combining simpler
-objects, in the paradigms of object-oriented
+Various kinds of 2D computer graphics models are geometric models,
+(vector graphics), digital images (raster graphics), text to be typeset
+(defined by content, font style and size, color, position, and
+orientation), mathematical functions and equations, and more. These
+components can be modified and manipulated by two-dimensional geometric
+transformations such as translation, rotation, scaling. In
+object-oriented graphics, the image is described indirectly by an object
+endowed with a self-rendering method—a procedure which assigns colors to
+the image pixels by an arbitrary algorithm. Complex models can be built
+by combining simpler objects, in the paradigms of object-oriented
 programming.
 
 ## Raster Graphic
