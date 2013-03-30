@@ -1,10 +1,6 @@
 1.  labels Featured
-2.  sidebar TableOfContents
 
-<!-- end list -->
-
-  - \[2DComputerGraphic\#Raster\_Graphic Raster Graphic\]
-  - \[2DComputerGraphic\#Vector\_Graphic Vector Graphic\]
+<wiki:toc max_depth="2" />
 
 # 2D Computer Graphics
 
