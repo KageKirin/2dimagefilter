@@ -2,6 +2,8 @@
 
 # Image Scaling
 
+|| Table of Contents: || ||<wiki:toc max_depth="2" />||
+
 In computer graphics, image scaling is the process of resizing a digital
 image. Scaling is a non-trivial process that involves a trade-off
 between efficiency, smoothness and sharpness. With bitmap graphics, as
