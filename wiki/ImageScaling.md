@@ -75,7 +75,8 @@ pixel)
 Eagle. It was designed by Derek Liauw Kie Fa, also known as Kreed,
 primarily for use in console and computer emulators, and it has remained
 fairly popular in this niche. Many of the most popular emulators,
-including ZSNES and , offer this scaling algorithm as a feature.
+including ZSNES and Visual Boy Advance, offer this scaling algorithm as
+a feature.
 
 Since Kreed released the source code under the GNU General Public
 License, it is freely available to anyone wishing to utilize it in a
