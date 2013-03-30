@@ -21,6 +21,7 @@ typography).\>
 ## Raster graphic
 
 <https://lh3.googleusercontent.com/-oJ1GJT6yDVw/UVXV0QwkAQI/AAAAAAAAAfw/ugQYfuLgM0o/s800/application-vnd.scribus_4x%2528raster%2529.png>
+
 Raster graphics image, or bitmap, is a dot matrix data structure
 representing a generally rectangular grid of pixels, or points of color,
 viewable via a monitor, paper, or other display medium. Raster images
@@ -35,6 +36,7 @@ represent).
 ## Vector graphic
 
 <https://lh5.googleusercontent.com/-TJI4KFJm5OQ/UVXV3L0rMLI/AAAAAAAAAfw/U01utEtY8sk/s800/application-vnd.scribus_4x%2528vector%2529.png>
+
 Vector graphics is the use of geometrical primitives such as points,
 lines, curves, and shapes or polygon(s), which are all based on
 mathematical expressions, to represent images in computer graphics.
