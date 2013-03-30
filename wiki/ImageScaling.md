@@ -127,12 +127,12 @@ frequency) and very similar perpendicular to that direction (low color
 frequency).
 
 xBR comes with two variants, one which blending image colors for
-smoothing results and other which not blending image colors (xBR
-\[NoBlend\]) so the results looks a bit jaggies. However The advantages
-of xBR \[NoBlend\] are it mantain image sharpness, because it doesn't
+smoothing results and other which not blending image colors (xBR (No
+Blend)) so the results looks a bit jaggies. However The advantages of
+xBR (No Blend) are it mantain image sharpness, because it doesn't
 produce additional colors, so that the number of unique colors between
-the original and the results remain same. Thus the xBR \[noBlend\] can
-be used recursively for scaling image multiple times without loss of
+the original and the results remain same. Thus the xBR (No Blend) can be
+used recursively for scaling image multiple times without loss of
 sharpness although only 3xBR \[NoBlend\] that can gives optimal results
-while 2xBR \[NoBlend\] and 4xBR \[NoBlend\] will produce stair effect
-for 45 degree of lines.
+while 2xBR (No Blend) and 4xBR (No Blend) will produce stair effect for
+45 degree of lines.
