@@ -1,5 +1,5 @@
 1.  labels
-Featured,Introduction,User-Manual
+Introduction,User-Manual,Featured
 
 # Image Resizer
 
