@@ -2,8 +2,6 @@
 
 # 2D Computer Graphics
 
-||<wiki:toc max_depth="2" />||
-
 2D computer graphics is the computer-based generation of digital
 image-mostly from two-dimensional models (such as 2D geometric models,
 text, and digital images) and by techniques specific to them. The word
@@ -31,6 +29,8 @@ method—a procedure which assigns colors to the image pixels by an
 arbitrary algorithm. Complex models can be built by combining simpler
 objects, in the paradigms of object-oriented
 programming.
+
+||<wiki:toc max_depth="2" />||
 
 ## Raster Graphic
 
