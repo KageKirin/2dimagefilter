@@ -5,6 +5,8 @@ Featured,Phase-Deploy
 
 <https://lh3.googleusercontent.com/-tht7lZDifps/UVOYkmRZBvI/AAAAAAAAAfE/U4ZSlIUojoc/s640/Image%2520Resizer.png>
 
+|| Table of Contents: || ||<wiki:toc max_depth="3" />||
+
   - Image resizer\* is a free software designed for resizing image
     especially for upscaling low res pixel art image multiple times.
     This software contains many pixel art scaling algorithm that only
