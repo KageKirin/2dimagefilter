@@ -1,6 +1,9 @@
-1.  labels Featured,Phase-Deploy
+1.  labels
+Featured,Phase-Deploy
 
 # Image Resizer
+
+<https://lh3.googleusercontent.com/-tht7lZDifps/UVOYkmRZBvI/AAAAAAAAAfE/U4ZSlIUojoc/s400/Image%2520Resizer.png>
 
   - Image resizer\* is a free software designed for resizing image
     especially for upscaling low res pixel art image multiple times.
