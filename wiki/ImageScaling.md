@@ -1,4 +1,4 @@
-1.  labels Featured
+1.  labels Featured,Supplement
 
 # Image Scaling
 
