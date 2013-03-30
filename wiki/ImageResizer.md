@@ -1,5 +1,5 @@
 1.  labels
-Featured,Phase-Deploy
+Featured,Phase-Deploy,User-Manual
 
 # Image Resizer
 
