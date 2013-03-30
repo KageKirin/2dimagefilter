@@ -95,7 +95,7 @@ more than the Super Eagle engine.
 
 ### Hqx
 
-  - Hqx\* is an algorithm developed by Maxim Stepin. The hqx variants
+  - Hqx\* is an algorithm developed by Maxim Stepin. The hqx family
     consist of hq2x, hq3x, and hq4x for scale factors of 2:1, 3:1, and
     4:1 respectively. Each algorithm works by comparing the colour value
     of each pixel to those of its eight immediate neighbours, marking
@@ -116,10 +116,23 @@ the public domain.
   - xBR\* is a pixel art scaling algorithm that scales by rules. It was
     developed by Hyllian in 2011 mainly as scaling filters for video
     game emulators. He introduce his algorithm for the first time in a
-    forum at byuu.org, a Nintendo emulator project.
+    forum at byuu.org, a Nintendo emulator project. Like Hqx, xBR
+    algorithm family also consist of 2xBR, 3xBR, and 4xBR for scale
+    factors of 2:1, 3:1, and 4:1 respectively.
 
 This algorithm works by detecting edges and interpolating pixels along
 those edges. It assumpted edges as pixel regions in the image where
 pixels are very distinct among them along some direction (high color
 frequency) and very similar perpendicular to that direction (low color
 frequency).
+
+xBR comes with two variants, one which blending image colors for
+smoothing results and other which not blending image colors (xBR
+<NoBlend>) so the results looks a bit jaggies. Howefer The advantages of
+xBR <NoBlend> are it mantain image sharpness, because it doesn't produce
+additional colors, so that the number of unique colors between the
+original and the results remain same. Thus the xBR <noBlend> can be used
+recursively for scaling image multiple times without loss of sharpness
+although only 3xBR <NoBlend> that can gives optimal results while 2xBR
+<NoBlend> and 4xBR <NoBlend> will produce stair effect for 45 degree
+lines.
