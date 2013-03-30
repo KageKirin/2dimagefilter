@@ -2,7 +2,7 @@
 
 # 2D Computer Graphics
 
-|| Table of Contents: || ||<wiki:toc max_depth="2" />||2D computer
+|| Table of Contents: || ||<wiki:toc max_depth="2" />|| 2D computer
 graphics is the computer-based generation of digital image-mostly from
 two-dimensional models (such as 2D geometric models, text, and digital
 images) and by techniques specific to them. The word may stand for the
