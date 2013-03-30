@@ -95,8 +95,9 @@ more than the Super Eagle engine.
 
 ### Hqx family
 
-Maxim Stepin's hq2x, hq3x, and hq4x are for scale factors of 2:1, 3:1,
-and 4:1 respectively. Each works by comparing the colour value of each
+Hqx is an algorithm developed by Maxim Stepin. The hqx family consists
+of hq2x, hq3x, and hq4x for scale factors of 2:1, 3:1, and 4:1
+respectively. Each algorithm works by comparing the colour value of each
 pixel to those of its eight immediate neighbours, marking the neighbours
 as close or distant, and using a pregenerated lookup table to find the
 proper proportion of input pixels' values for each of the 4, 9 or 16
