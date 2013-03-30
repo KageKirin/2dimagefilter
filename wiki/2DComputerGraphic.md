@@ -1,14 +1,14 @@
 1.  labels Featured
 
-# \*2D Computer Graphics\*
+# 2D Computer Graphics
 
 || Table of Contents: || ||<wiki:toc max_depth="2" />||
 
-2D computer graphics is the computer-based generation of digital
-image-mostly from two-dimensional models (such as 2D geometric models,
-text, and digital images) and by techniques specific to them. The word
-may stand for the branch of computer science that comprises such
-techniques, or for the models themselves.
+  - 2D computer graphics\* is the computer-based generation of digital
+    image-mostly from two-dimensional models (such as 2D geometric
+    models, text, and digital images) and by techniques specific to
+    them. The word may stand for the branch of computer science that
+    comprises such techniques, or for the models themselves.
 
 The purpose of 2D computer graphics are mainly in applications that were
 originally developed upon traditional printing and drawing technologies,
@@ -36,10 +36,10 @@ programming.
 
 <https://lh3.googleusercontent.com/-oJ1GJT6yDVw/UVXV0QwkAQI/AAAAAAAAAfw/ugQYfuLgM0o/s800/application-vnd.scribus_4x%2528raster%2529.png>
 
-Raster graphics image, or bitmap, is a dot matrix data structure
-representing a generally rectangular grid of pixels, or points of color,
-viewable via a monitor, paper, or other display medium. Raster images
-are stored in image files with varying formats.
+  - Raster graphic\*, or bitmap, is a dot matrix data structure
+    representing a generally rectangular grid of pixels, or points of
+    color, viewable via a monitor, paper, or other display medium.
+    Raster images are stored in image files with varying formats.
 
 A bitmap corresponds bit-for-bit with an image displayed on a screen,
 generally in the same format used for storage in the display's video
@@ -53,10 +53,11 @@ represent).
 
 <https://lh5.googleusercontent.com/-TJI4KFJm5OQ/UVXV3L0rMLI/AAAAAAAAAfw/U01utEtY8sk/s800/application-vnd.scribus_4x%2528vector%2529.png>
 
-Vector graphics is the use of geometrical primitives such as points,
-lines, curves, and shapes or polygon(s), which are all based on
-mathematical expressions, to represent images in computer graphics.
-"Vector", in this context, implies more than a straight line.
+  - Vector graphic\* is the use of geometrical primitives such as
+    points, lines, curves, and shapes or polygon(s), which are all based
+    on mathematical expressions, to represent images in computer
+    graphics. "Vector", in this context, implies more than a straight
+    line.
 
 Vector graphics are based on vectors (also called paths, or strokes)
 which lead through locations called control points. Each of these points
