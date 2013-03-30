@@ -3,7 +3,7 @@
 
 <!-- end list -->
 
-  - 2DComputerGraphic\#Raster\_Graphic
+  - \[2DComputerGraphic\#Raster\_Graphic Raster\_Graphic\]
 
 # 2D Computer Graphics
 
