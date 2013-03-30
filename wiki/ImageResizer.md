@@ -33,10 +33,7 @@ just:
 `   ``     - the target file to write`
 
 ` ``        - Resizes the image in the buffer and stores the result back to the buffer.`  
-`   `` - {auto} | {w`<x>`} | {h`<y>`} | {`<x>`x`<y>`} | {`
-
-%}
-
+`   `` - `  
 `                  If only width or height is specified, the other dimension is auto-detected by aspect ratio`  
 `     ``       - determine target dimensions from used resizing filter`  
 `     ``        - the final width in pixels for the target`  
