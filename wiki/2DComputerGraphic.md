@@ -39,14 +39,14 @@ programming.
 Raster graphics image, or bitmap, is a dot matrix data structure
 representing a generally rectangular grid of pixels, or points of color,
 viewable via a monitor, paper, or other display medium. Raster images
-are stored in image files with varying formats. A bitmap corresponds
-bit-for-bit with an image displayed on a screen, generally in the same
-format used for storage in the display's video memory, or maybe as a
-device-independent bitmap.
+are stored in image files with varying formats.
 
-A bitmap is technically characterized by the width and height of the
-image in pixels and by the number of bits per pixel (a color depth,
-which determines the number of colors it can
+A bitmap corresponds bit-for-bit with an image displayed on a screen,
+generally in the same format used for storage in the display's video
+memory, or maybe as a device-independent bitmap. A bitmap is technically
+characterized by the width and height of the image in pixels and by the
+number of bits per pixel (a color depth, which determines the number of
+colors it can
 represent).
 
 ## Vector Graphic
