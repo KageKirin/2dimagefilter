@@ -1,6 +1,6 @@
 1.  labels Featured
 
-# 2D Computer Graphics
+# \_2D Computer Graphics\_
 
 || Table of Contents: || ||<wiki:toc max_depth="2" />||
 
