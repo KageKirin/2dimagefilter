@@ -1,4 +1,9 @@
 1.  labels Featured
+2.  sidebar TableOfContents
+
+<!-- end list -->
+
+  - \[2DComputerGraphic\#Raster Graphic\]
 
 # 2D Computer Graphics
 
@@ -18,7 +23,19 @@ because they give more direct control of the image than 3D computer
 graphics (whose approach is more akin to photography than to
 typography).\>
 
-## Raster graphic
+2D computer graphics models may combine geometric models, (vector
+graphics), digital images (raster graphics), text to be typeset (defined
+by content, font style and size, color, position, and orientation),
+mathematical functions and equations, and more. These components can be
+modified and manipulated by two-dimensional geometric transformations
+such as translation, rotation, scaling. In object-oriented graphics, the
+image is described indirectly by an object endowed with a self-rendering
+method—a procedure which assigns colors to the image pixels by an
+arbitrary algorithm. Complex models can be built by combining simpler
+objects, in the paradigms of object-oriented
+programming.
+
+## Raster Graphic
 
 <https://lh3.googleusercontent.com/-oJ1GJT6yDVw/UVXV0QwkAQI/AAAAAAAAAfw/ugQYfuLgM0o/s800/application-vnd.scribus_4x%2528raster%2529.png>
 
@@ -33,7 +50,7 @@ width and height of the image in pixels and by the number of bits per
 pixel (a color depth, which determines the number of colors it can
 represent).
 
-## Vector graphic
+## Vector Graphic
 
 <https://lh5.googleusercontent.com/-TJI4KFJm5OQ/UVXV3L0rMLI/AAAAAAAAAfw/U01utEtY8sk/s800/application-vnd.scribus_4x%2528vector%2529.png>
 
