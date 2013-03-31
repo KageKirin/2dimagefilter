@@ -26,7 +26,9 @@ just:
 
 ### Command Line Interface
 
-Example: 
+Example:
+
+Notes:
 
 ||  || Loads a file into the buffer.|| ||  || the source file to
 resize|| || } || Saves the image in the buffer to a file.|| ||  || the
@@ -45,8 +47,6 @@ centered grid, 0 - do not use centered grid|| ||  || 1 - use thresholds,
 repetitions to apply|| ||  || vertical out of bounds handling: const,
 half, whole, wrap|| ||  || horizontal out of bounds handling: const,
 half, whole, wrap||
-
-Note:
 
 You can load and process multiple files at once by loading after saving
 again, such as:
