@@ -26,6 +26,8 @@ just:
 
 ### Command Line Interface
 
+Example: 
+
 ||  || Loads a file into the buffer.|| ||  || the source file to
 resize|| || } || Saves the image in the buffer to a file.|| ||  || the
 target file to write|| ||  || Resizes the image in the buffer and stores
@@ -43,6 +45,17 @@ centered grid, 0 - do not use centered grid|| ||  || 1 - use thresholds,
 repetitions to apply|| ||  || vertical out of bounds handling: const,
 half, whole, wrap|| ||  || horizontal out of bounds handling: const,
 half, whole, wrap||
+
+Note:
+
+You can load and process multiple files at once by loading after saving
+again, such as: 
+
+You can also save to multiple files by adding another save parameter,
+such as: 
+
+Even preprocessing using multiple filters is possible by adding another
+resize parameter, such as: 
 
 ## Limitations
 
