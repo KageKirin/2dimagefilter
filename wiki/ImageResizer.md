@@ -49,13 +49,13 @@ half, whole, wrap||
 Note:
 
 You can load and process multiple files at once by loading after saving
-again, such as: 
+again, such as:
 
 You can also save to multiple files by adding another save parameter,
-such as: 
+such as:
 
 Even preprocessing using multiple filters is possible by adding another
-resize parameter, such as: 
+resize parameter, such as:
 
 ## Limitations
 
