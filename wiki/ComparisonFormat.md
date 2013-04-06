@@ -25,11 +25,12 @@ format, such as JPEG or JPG.
 With Indexed it means that the image can only store a limited number of
 colours (usually 256) that are chosen by the image author, with Direct
 it means that you can store many thousands of colours that have not been
-chosen by the author.
+chosen by the
+author.
 
 ### BMP - Lossless / Indexed and Direct
 
-<http://i.stack.imgur.com/J1EEX.png>
+<https://lh4.googleusercontent.com/-TNyJZfX2E-M/UWAjWNePrOI/AAAAAAAAAjI/luCx_xqXvUo/s800/BMPvsGIF.png>
 
   - BMP\* is an old format. It is Lossless (no image data is lost on
     save) but there's also little to no compression at all, meaning
@@ -39,11 +40,12 @@ chosen by the author.
     format.
 
 Good for: Nothing really. There isn't anything BMP excels at, or isn't
-done better by other formats.
+done better by other
+formats.
 
 ### GIF - Lossless / Indexed only
 
-<http://i.stack.imgur.com/F7VtM.png>
+<https://lh6.googleusercontent.com/-bys_2vwYhHM/UWAjbBLZe9I/AAAAAAAAAjQ/6HLJ0370CB4/s800/GIFvsJPEG.png>
 
   - GIF\* uses lossless compression, meaning that you can save the image
     over and over and never lose any data. The file sizes are much
@@ -55,11 +57,12 @@ done better by other formats.
 GIF images can also be animated and have transparency.
 
 Good for: Logos, line drawings, and other simple images that need to be
-small. Only really used for websites.
+small. Only really used for
+websites.
 
 ### PNG-8 - Lossless / Indexed
 
-<http://i.stack.imgur.com/B09oZ.png>
+<https://lh3.googleusercontent.com/-6nVIc1DdLfQ/UWAk8sy4ujI/AAAAAAAAAjg/tJUheUUPWsE/s800/PNG-8vsGIF.png>
 
   - PNG\* is a newer format, and PNG-8 (the indexed version of PNG) is
     really a good replacement for GIFs. Sadly, however, it has a few
@@ -96,11 +99,12 @@ Just like PNG-8, PNG-24 supports alpha-transparency, too.
   - Lossy\* means the image is made (even) smaller, but at a detriment
     to the quality. Different from lossy compression, if an image is
     saved in a Lossy format over and over, the image quality would get
-    progressively worse and worse.
+    progressively worse and
+worse.
 
 ### JPEG - Lossy / Direct
 
-<http://i.stack.imgur.com/agaQv.png>
+<https://lh3.googleusercontent.com/-qB_out6DkuI/UWAk5hh4ukI/AAAAAAAAAjY/XccBigjNB-w/s800/JPEGvsGIF.png>
 
   - JPEG\* or \*JPG\* images were designed to make detailed photographic
     images as small as possible by removing information that the human
